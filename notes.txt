@@ -5,3 +5,6 @@ This is from feature-branch
 
 New line from local machine
 Commit from main branch
+Commit from rebase branch
+Temporary work in progress
+
