@@ -4,3 +4,4 @@ Learning Git basics.
 This is from feature-branch
 
 New line from local machine
+Change from cloned repo
